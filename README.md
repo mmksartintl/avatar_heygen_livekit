@@ -9,8 +9,8 @@ Steps:
    
 2) load avatar.html into container
 
-   docker container cp avatar.html <ID>:/usr/share/nginx/html
+   docker container cp avatar.html \<ID\>:/usr/share/nginx/html
    
 3) start into the browser
 
-   http://<IP>:80/avatar.html
+   http://\<IP\>:80/avatar.html
